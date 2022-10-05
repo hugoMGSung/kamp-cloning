@@ -131,3 +131,4 @@ dmypy.json
 
 ## 가이드 문서 제거
 *.pdf
+*.xlsx
